@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMApplication5.7", "TestMatrixApp\TMApplication5.7.csproj", "{DAD0FBD2-AEE2-4BF8-9471-5C98B94AC364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD0FBD2-AEE2-4BF8-9471-5C98B94AC364}.Debug|x86.ActiveCfg = Debug|x86
+		{DAD0FBD2-AEE2-4BF8-9471-5C98B94AC364}.Debug|x86.Build.0 = Debug|x86
+		{DAD0FBD2-AEE2-4BF8-9471-5C98B94AC364}.Release|x86.ActiveCfg = Release|x86
+		{DAD0FBD2-AEE2-4BF8-9471-5C98B94AC364}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

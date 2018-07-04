@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/5646/QA/TestMatrix/TestMatrixAppV5.7/TestMatrixApp/publish
+END
+setup.exe
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/5646/QA/TestMatrix/TestMatrixAppV5.7/TestMatrixApp/publish/setup.exe
+END
+TMApplication.application
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/!svn/ver/5646/QA/TestMatrix/TestMatrixAppV5.7/TestMatrixApp/publish/TMApplication.application
+END
